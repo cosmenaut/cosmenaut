@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cosmenaut
-- 👀 I’m interested in designing stuff, coding stuff, reading, and tonds of other stuff!
+- 👀 I’m interested in designing , coding, reading, and tons of other stuff!
 - 🌱 I’m currently learning how to be a better web developer, designer, artist, human.
 
 <!---
